@@ -4,8 +4,9 @@ I’m a **Software Engineer** with a strong interest in **data-driven systems** 
 I enjoy building reliable backends, clean user interfaces, and practical solutions using modern web and data technologies.
 
 I’m especially interested in:
-- full-stack web development
+
 - data analysis and applied data science
+- full-stack web development
 - responsible AI and automation
 - building systems that solve real-world problems
 
