@@ -1,22 +1,18 @@
 # Mbughuni Mvungi
 
-I’m a **Software Engineer** with a strong interest in **data-driven systems** and **human-centered applications**.  
-I enjoy building reliable backends, clean user interfaces, and practical solutions using modern web and data technologies.
+Mbughuni Mvungi
 
-I’m especially interested in:
+I’m a Software Engineer focused on building practical, data-driven applications and reliable software systems.
 
-- Learning AI/ML and applied data science
-- full-stack web development
-- responsible AI and automation
-- building systems that solve real-world problems
+I work across frontend, backend, databases, APIs, and AI-powered applications, with a growing focus on full-stack engineering, applied AI/ML, automation, and fintech systems.
 
----
-
-### 🧠 What I work with
-- Designing and building web applications (frontend + backend)
-- Working with databases and APIs
-- Analyzing data and building data-driven features
-- Exploring AI/ML for practical use cases (education, health, productivity)
+What I Work With
+Building full-stack web applications and backend services
+Designing REST APIs and working with relational and NoSQL databases
+Developing data-driven features and applications
+Integrating AI models and automation into practical products
+Learning and applying machine learning and data science
+Designing systems that address real-world problems
 
 ### 🛠️ Tech Stack
 
@@ -49,11 +45,11 @@ I’m especially interested in:
 
 ---
 
-### 📫 Get in touch
+### Get in touch
 - 📧 Email: **mbughunimvungi@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/mbughuni-mvungi-356250280/
 - 🌐 portfolio: https://mbughunimvungi.vercel.app/
   
 ---
 
-*I enjoy learning continuously and improving my craft through real projects.*
+*Building, learning, and shipping through real-world projects.*
