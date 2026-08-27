@@ -5,7 +5,7 @@ I enjoy building reliable backends, clean user interfaces, and practical solutio
 
 I’m especially interested in:
 
-- data analysis and applied data science
+- Learning AI/ML and applied data science
 - full-stack web development
 - responsible AI and automation
 - building systems that solve real-world problems
