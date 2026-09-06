@@ -2,7 +2,7 @@
 
 
 
-Software Engineer interested in software development, exploring machine learning and deep learning.
+Developer
 
 
 
