@@ -2,8 +2,7 @@
 
 
 
-Developer
 
 
 
-*Building, learning, and shipping through real-world projects.*
+*Building, learning, and  exploring new technologies*
